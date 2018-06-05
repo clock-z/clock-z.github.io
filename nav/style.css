@@ -1,0 +1,49 @@
+body{
+    padding:0;
+    margin:0;
+}
+nav{
+    height: 40px;
+    width: 100%;
+    background: black;
+    position: fixed;
+    top:0;
+}
+section{
+    margin-top: 40px; 
+}
+ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+li{
+    float: left;
+}
+a{
+    display: block;
+    width: 100px;
+    text-align: center;
+    line-height: 40px;
+    background: black;
+    text-decoration: none;
+    color: gray;
+}
+
+.active{
+    color: green;
+}
+a:hover{
+    color: green
+}
+.dropdown-content{
+    position: relative;
+    display: none;
+}
+.dropdown-content li{
+    float: none;
+}
+.dropdown:hover .dropdown-content{
+    display: block;
+    position: absolute;
+}

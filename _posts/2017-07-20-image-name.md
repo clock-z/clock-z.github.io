@@ -6,9 +6,7 @@ categories:
 tags:
 ---
 
-> NexT is a high quality elegant [Jekyll](https://jekyllrb.com) theme ported from [Hexo Next](https://github.com/iissnan/hexo-theme-next). It is crafted from scratch, with love.
 
-<!-- more -->
 
 # 图片命名原则：
 作画时间+地点+上款人+馆藏及编号

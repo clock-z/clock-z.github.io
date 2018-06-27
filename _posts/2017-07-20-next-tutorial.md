@@ -1,6 +1,6 @@
 ---
 title: 图像命名原则
-description: NexT is a high quality elegant Jekyll theme ported from Hexo Next. It is crafted from scratch, with love.
+description: 内隐知识的修炼
 categories:
  - tutorial
 tags:

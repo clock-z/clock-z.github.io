@@ -4,7 +4,7 @@
 # ---------------------------------------------------------------
 
 # Site
-title: NexT
+title: CLOCK
 subtitle:
 description:
 author: John Doe
@@ -13,7 +13,7 @@ language: en
 date_format: '%Y-%m-%d'
 
 # URL
-## If your site is put in a subdirectory, set url as 'http://yoursite.com' and baseurl as '/child'
+## https://clock-z.github.io/
 url:
 baseurl:
 permalink: pretty
